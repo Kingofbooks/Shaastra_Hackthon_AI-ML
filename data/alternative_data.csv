@@ -1,0 +1,11 @@
+Social Media Sentiment,Utility Payments (Paid),Geolocation (Region)
+Positive,True,North
+Negative,False,South
+Neutral,True,East
+Positive,True,West
+Negative,False,Central
+Positive,True,North
+Neutral,True,East
+Negative,False,South
+Positive,True,West
+Neutral,True,Central
